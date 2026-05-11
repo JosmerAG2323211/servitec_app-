@@ -1,16 +1,18 @@
-# servitec_app
+# Servitec App 🛠️
 
-A new Flutter project.
+**Servitec App** es una solución móvil diseñada para optimizar la gestión de servicios técnicos. Esta aplicación automatiza los procesos, aumenta la productividad del personal y reduce los tiempos de respuesta ante fallas de equipos.
 
-## Getting Started
+## 🚀 Características principales
+* **Gestión de servicios:** Registro y seguimiento de órdenes técnicas.
+* **Optimización de tiempo:** Búsqueda rápida de fallas frecuentes.
+* **Interfaz intuitiva:** Diseñada para facilitar el trabajo diario de los empleados.
+* **Multiplataforma:** Desarrollada con **Flutter** para un rendimiento óptimo.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tecnologías utilizadas
+* **Lenguaje:** Dart
+* **Framework:** Flutter
+* **Base de Datos:** [Aquí pones si usaste SQLite, Firebase, etc.]
+* **Arquitectura:** [Aquí pones si usaste MVC, Provider, etc.]
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Proyecto desarrollado por Josmer Alcalá - Estudiante de Ingeniería*
